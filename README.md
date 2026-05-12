@@ -67,5 +67,6 @@ Los días martes y viernes de 8:30am a 12:50pm.
 | 14b              | 06-19 vie  | entrega proyecto-03                                  |
 | 15a              | 06-23 mar  |                                                      |
 | 15b              | 06-26 vie  |                                                      |
-| 16a              | 06-30 mar  |                                                      |
-| 16b              | 07-03 vie  |                                                      |
+| 16a              | 06-30 mar  | semana exclusiva de trabajo en talleres              |
+| 16b              | 07-03 vie  | semana exclusiva de trabajo en talleres              |
+| examen           | 07-06/10   | examen de taller, fecha por definir                  |
