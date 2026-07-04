@@ -120,6 +120,25 @@ Gracias a ti, y tu buena bondad, la voz de los más pequeños se hace grande. Es
 
 Y así funcionan diversas naturalezas…, se entretejen y se convierten en una sola.
 
+placas usadas:
+
+\- placa 01: Chirihue, grupo 4  
+\- placa 02: Maica (piezo) grupo 1  
+\- placa 03: Parla  
+\-EXTRA: comunicaciones espaciales
+
+estado de construcción:  
+\- placa 01: Hemos realizado 3, la primera sonaba pero no oscila, pero se quemo. La segunda oscilaba pero no sonaba como deseamos y quisimos probar con una tercera.   
+\- placa 02: No sabemos si funciona, estamos esperando que el grupo 1 lo realice con los cambios que pueden servir.   
+\- placa 03: No sabemos si funciona, esperando respuesta de profesores.   
+EXTRA: funciona. 
+
+ayudas eléctricas que necesitamos domingo:
+
+\- Queremos poder resolver la placa 1, pero si no, que opciones tenemos. Si no funciona ninguna de las placas \-chirihue y maica- se nos cae toda nuestra propuesta. A nadie le ha funcionado el chirihue y tampoco el piezo. Tenemos en protoboard el chirihue que funciona.   
+\-Que hacer si nada funciona. 
+
+
 ## Bibliografía
 
 **Inspiración para construir, desde donde partieron**
