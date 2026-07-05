@@ -131,7 +131,15 @@ Este módulo recibe dos inputs, energía eléctrica a través de los conectores 
 | Jack DC | 2 | J2, J3 | $150 | Electrónica Real | |
 | Jack de audio | 1 | J1 | $150-$300 | Victronics | |
 
-Soldado 6 Horas
+| Proceso | Integrantes | Duración | Total equipo |
+|----------|:-----------:|:--------:|-------------:|
+| Procesos y solución de errores | 5 | 3 semanas | 240h |
+
+| Proceso | Integrantes | Duración | Total equipo |
+|----------|:-----------:|:--------:|-------------:|
+| Soldadura | 5 | 3 semanas | ???h |
+
+
 
  Según yo esto no va
 
@@ -141,13 +149,7 @@ Soldado 6 Horas
 
 ----------------
 
-nombre de sistema/instrumento construido por medio de módulos
-
-??? AL FINAL PONER ESTO
-
-----------------
-
-# **placas soldadas**
+# **?????????** *(placas soldadas)*
 
 principio de funcionamiento de cada una, qué tipo de señal entrega a la salida, qué recibe
 lista de materiales con costos. Incluir tiempo de soldadura
@@ -199,6 +201,7 @@ Nuestro sintetizador está formado de 4 modulos:
 > 3er/4to/5to corte: parametros erroneos y líneas de corte extra
 >
 > 6to corte: por falta de material usamos los restantes de cortes anteriores
+> 
 
 #### armamos las carcasas con los separadores
 
@@ -259,6 +262,8 @@ inspiración y referentes (con cita)
 
 Al hacer brainstorming de que podriamos hacer como partitura nos dimos cuenta que nuestras ideas eran actividades que independientes de nuestra partitura se llevan a cabo. Nosotros nos introducimos a esta creando una composición nueva cada vez que se toca. 
 
+Descubrimos que nuestra partitura calzaba con el principio de el *Sitio especifico*, un tipo de obra especifica planeada para un lugar concreto. En nuestro caso siendo la mesa de Ping Pong en la FAAD. (Kolodynski, n.d.)
+
 ---
 
 #### Ping Pong
@@ -274,10 +279,6 @@ Al hacer brainstorming de que podriamos hacer como partitura nos dimos cuenta qu
 >**Jueguen durante 5 minutos o hasta que se aburran**
 
 ------------------
-
-
-
------------------
 
 ## bibliografía
 
