@@ -10,6 +10,7 @@
 
 
 # Vitrina Sónica 
+![imagenes](./imagenes/portada.jpg)
 
 Vitrina Sónica es un sintetizador modular construido a partir de la integración de distintos módulos desarrollados de manera colaborativa durante el taller. Cada grupo fue responsable del diseño, fabricación y prueba de una placa específica, en nuestro caso, desarrollamos el módulo oscilador, encargado de generar las señales que constituyen la base sonora del instrumento.
 
