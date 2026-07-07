@@ -157,11 +157,18 @@ Resonancia complementa el funcionamiento de Comando Estelar incorporando una ló
 
 
 
-## carcasa
+## Carcasa
 
-decisiones materiales y formales de la carcasa
+La carcasa surge de la decisión de entender la electrónica como parte fundamental del lenguaje del objeto, en lugar de ocultarla bajo un contenedor. Mientras muchos productos tecnológicos esconden sus circuitos detrás de superficies limpias y cerradas, nuestra propuesta busca invertir esa lógica: hacer visibles los componentes, las conexiones y los procesos de fabricación para que el funcionamiento del sintetizador también pueda ser observado.
 
-inspiración y referentes (con cita)
+La estructura fue concebida como un sistema abierto que permite leer visualmente el recorrido de la señal entre los distintos módulos. Cada cable, circuito y punto de conexión permanece expuesto, permitiendo comprender la naturaleza modular del instrumento y evidenciando la relación entre cada placa electrónica.
+La elección de materiales responde tanto a criterios funcionales como conceptuales. El alambre de acero constituye el esqueleto principal del sistema, conformando una estructura ligera pero resistente que sostiene todos los módulos sin bloquear su visibilidad. Su construcción manual mantiene una apariencia cercana al boceto tridimensional, haciendo visible el proceso de fabricación y reforzando el carácter experimental del proyecto.
+
+La malla metálica aporta estabilidad estructural y funciona como un plano de soporte donde pueden fijarse las placas mediante amarras plásticas. Al mismo tiempo, genera transparencias que permiten observar el interior del objeto desde múltiples ángulos, produciendo distintas lecturas visuales dependiendo de la posición del espectador.
+El acrílico de color fue utilizado como soporte para los módulos electrónicos, los potenciómetros y los conectores de audio. Además de aportar rigidez al montaje, permite diferenciar visualmente cada módulo del sintetizador, facilitando la identificación de sus funciones y organizando la composición general del sistema.
+
+Las placas PCB, lejos de permanecer ocultas, se convierten en uno de los principales elementos visuales del proyecto. Sus pistas de cobre, componentes soldados y conexiones forman parte de la composición estética del instrumento, haciendo visible el trabajo de diseño electrónico y el proceso de fabricación desarrollado durante el taller.
+En conjunto, estos materiales construyen una carcasa que no busca disimular la tecnología, sino transformarla en el principal recurso expresivo del proyecto. La estructura deja de ser un simple contenedor para convertirse en una interfaz que comunica cómo el sintetizador está construido, cómo funciona y cómo los distintos módulos interactúan entre sí.
 
 ## composición
 
