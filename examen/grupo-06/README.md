@@ -57,6 +57,10 @@ Cuando alguien usa Barry Benson, interactúa con cuatro potenciómetros. Cada un
 
 ![barry benson](./imagenes/abeja-esquematico.png)
 
+#### Sonido en protoboard Barry benson
+
+[![Abeja](https://img.youtube.com/vi/eccHGz9GCeo/maxresdefault.jpg)](https://youtube.com/shorts/eccHGz9GCeo)
+
 ### Placa 02: Lub-dub (percutor)
 
 Lub-dub hace exactamente lo que hace un corazón: bombea. Pero en vez de bombear sangre, bombea pulsos eléctricos. En vez de mantener vivo a un organismo, mantiene vivo el ritmo. Lub-dub late. A veces Tac. Tac. Tac. Otras, Dumb. Dumb. Dumb. Con la misma indiferencia biológica con que tu corazón te despertó esta mañana, Lub-dub bombea energía guiada por un compás. Es un percutor. Es un metrónomo pero con actitud.
@@ -76,6 +80,10 @@ El corazón del circuito es un oscilador construido con inversores Schmitt-trigg
 ![Lub dub](./imagenes/corazon.png)
 
 ![Lub dub](./imagenes/corazon-esquematico.png)
+
+#### Sonido en protoboard Lub Dub 
+
+[![Corazón](https://img.youtube.com/vi/qcpgWSdzTUw/maxresdefault.jpg)](https://youtube.com/shorts/qcpgWSdzTUw)
 
 ### Mixer
 
